@@ -1,0 +1,9 @@
+
+{
+  "name": "chat-notification",
+  "description": "Send notification for chat",
+  "memory": 128,
+  "timeout": 5,
+  "role": "<Please input lambda role>",
+  "environment": {}
+}
